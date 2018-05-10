@@ -1,0 +1,45 @@
+        <!--
+        div {
+            margin: auto;
+            width: 50%;
+            
+            padding: 10px;
+            
+        }
+            Body {
+                background-image: url('http://thesmartlocal.com/images/easyblog_articles/4787/630x420xMalaysian-Hotels-On-Water-3.jpg.pagespeed.ic.QIHGF1BHgI.jpg');
+            }
+            h1 {
+                color: gray;
+            }
+            
+            h3{
+                color: yellow;
+            }
+            h4{
+                color: gray;
+            }
+            img {
+                width: 400px;
+            }
+            #thirdDiv {
+                height: 600px;
+                width: 500px;
+                background-color: mintcream;
+                padding: 50px;
+                border: 25px solid dimgray;
+            }
+            #spanId {
+                margin: 50px;
+                color: yellow;
+            }
+            a {
+                color: yellow;
+            }
+            a:visited {
+                color: gainsboro;
+            }
+            a:hover {
+                color: steelblue;
+            }
+        -->
